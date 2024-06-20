@@ -4,5 +4,6 @@
 # Ignore IntelliJ IDEA project files
 .idea/
 
-# Ignore Vite cache
-.vite/
+
+# Ensure .nojekyll file is not ignored
+!.nojekyll
