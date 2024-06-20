@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f6c0ca6-1840-4ea1-b94c-9068d5412d65" name="Changes" comment="测试">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="8f6c0ca6-1840-4ea1-b94c-9068d5412d65" name="Changes" comment="测试" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718907082905</updated>
-      <workItem from="1718907085781" duration="1302000" />
+      <workItem from="1718907085781" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1718907202780</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718907826813</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试">
+      <created>1718908404268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718908404268</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
