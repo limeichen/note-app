@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f6c0ca6-1840-4ea1-b94c-9068d5412d65" name="Changes" comment="测试" />
+    <list default="true" id="8f6c0ca6-1840-4ea1-b94c-9068d5412d65" name="Changes" comment="测试">
+      <change beforePath="$PROJECT_DIR$/node_modules/.tmp/tsconfig.app.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.tmp/tsconfig.app.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.tmp/tsconfig.vitest.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.tmp/tsconfig.vitest.tsbuildinfo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718907082905</updated>
-      <workItem from="1718907085781" duration="1640000" />
+      <workItem from="1718907085781" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1718907202780</created>
@@ -72,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1718908404268</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试">
+      <created>1718908933918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718908933918</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试">
+      <created>1718909028818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909028818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试">
+      <created>1718909040611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718909040611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
