@@ -14,8 +14,7 @@ export default defineConfig({
         vueJsx(),
         VueDevTools(),
     ],
-    // base: './',
-    base: '/note-app/',
+    base: './',
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url))
