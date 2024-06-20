@@ -5,7 +5,6 @@ import viteConfig from './vite.config'
 export default mergeConfig(
     viteConfig,
     defineConfig({
-        base: process.env.VUE_APP_PUBLIC_PATH || '/',
         test: {
             environment: 'jsdom',
             exclude: [...configDefaults.exclude, 'e2e/**'],
