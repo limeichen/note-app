@@ -9,7 +9,7 @@ import VueDevTools from 'vite-plugin-vue-devtools'
 export default defineConfig({
   // base: process.env.VUE_APP_PUBLIC_PATH || '/',
   // base: process.env.NODE_ENV === 'production' ? '/aaaaaa/' : '/',
-  base: '/aaaaaa/',
+  publicPath: '/note-app/',
   plugins: [
     vue(),
     vueJsx(),
