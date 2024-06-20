@@ -7,13 +7,14 @@ import VueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: './',
+
     // base: process.env.NODE_ENV === 'production' ? './' : '/',
     plugins: [
         vue(),
         vueJsx(),
         VueDevTools(),
     ],
+    base: './',
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url))
